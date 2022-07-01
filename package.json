@@ -1,0 +1,15 @@
+{
+  "name": "bzplugins",
+  "version": "1.1.5",
+  "description": "all kinds of methods for us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deepCopy",
+    "好用的插件"
+  ],
+  "author": "binzhang",
+  "license": "ISC"
+}
